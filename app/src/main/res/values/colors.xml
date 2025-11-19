@@ -9,4 +9,8 @@
     <color name="citrus_green">#4CAF50</color>
     <color name="citrus_red">#F44336</color>
     <color name="citrus_blue">#2196F3</color>
+
+    <!-- Launcher icon colors -->
+    <color name="ic_launcher_background">#FF9800</color>
+    <color name="ic_launcher_foreground">#FFFFFF</color>
 </resources>
